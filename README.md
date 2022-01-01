@@ -24,6 +24,8 @@ Estimated Total Size (MB): 552.52
 
 但是效果一般，准确率不高，暂不清楚原因
 
+SHRNet为HRNet的重构版，不再需要yaml文件，参数量相同，但是GFLOPs会大一点点，暂不清楚原因
+
 参考：
 https://github.com/samcw/ResNet18-GhostNet/blob/master/resnet18.py
 
