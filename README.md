@@ -12,14 +12,6 @@ Non-trainable params: 0
 
 Total mult-adds (G): 6.38
 
-===================================================================================================================
-Input size (MB): 0.79
-
-Forward/backward pass size (MB): 460.23
-
-Params size (MB): 91.50
-
-Estimated Total Size (MB): 552.52
 
 
 但是效果一般，准确率不高，暂不清楚原因
